@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -80,3 +80,14 @@ deploy:
   type: git
   repo: git@github.com:dmn1k/dmn1k.github.io.git
   branch: master
+
+menu:
+  Home: /
+  Impressum: /impressum
+rss: /atom.xml
+
+excerpt_link: Read More
+fancybox: true
+
+google_analytics:
+favicon: /favicon.png
