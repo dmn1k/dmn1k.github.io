@@ -80,14 +80,3 @@ deploy:
   type: git
   repo: git@github.com:dmn1k/dmn1k.github.io.git
   branch: master
-
-menu:
-  Home: /
-  Impressum: /impressum
-rss: /atom.xml
-
-excerpt_link: Read More
-fancybox: true
-
-google_analytics:
-favicon: /favicon.png
